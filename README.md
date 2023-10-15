@@ -111,4 +111,6 @@
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |-->
 
 --- 
+### 💻 Codewars:
 
+![codewars](https://www.codewars.com/users/prostasev)

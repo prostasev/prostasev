@@ -112,9 +112,9 @@
 
 --- 
 
-<!--### 💻 Codewars:
+### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/prostasev/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -129,4 +129,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prostasev)-->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prostasev)

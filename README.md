@@ -1,8 +1,3 @@
-<p align="center">
-<a href="https://the-unl.com" target="_blank">
-  <img src="download (1).gif" alt="The Unlimited" width="5000"/>
-</a></p>
-
 ---
 ---
 

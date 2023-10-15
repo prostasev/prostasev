@@ -24,7 +24,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prostasev&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-
+ <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prostasev&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>

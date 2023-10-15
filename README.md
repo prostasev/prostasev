@@ -98,7 +98,8 @@
 ---
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/prostasev)
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 ---
 
  ### 💻 Пройденные курсы:

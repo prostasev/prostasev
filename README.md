@@ -99,7 +99,7 @@
 ### 💻 Codewars:
 
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/prostasev/badges/large)
 ---
 
  ### 💻 Пройденные курсы:

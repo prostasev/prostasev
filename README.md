@@ -10,7 +10,64 @@
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Компьютерной академии ШАГ. После был промежуток в пару лет, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science. С мая 2023 года по август 2023 я изучал веб разработку. В настоящий момент я начинаю изучение JS,Java и языков Си, параллельно с этим я стал студентом ГГТУ имени П.О. Сухого.
 ---
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prostasev&layout=compact&theme=vision-friendly-dark"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="110" viewBox="0 0 350 110" fill="none">
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #ffb000;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff }
+  
+
+          
+        </style>
+
+        undefined
+
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="#000000" stroke-opacity="1"/>
+
+        
+      <g data-testid="card-title" transform="translate(25, 35)">
+        <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g data-testid="main-card-body" transform="translate(0, 55)">
+          
+    <svg data-testid="lang-items" x="25">
+      
+      <mask id="rect-mask">
+        <rect x="0" y="0" width="300" height="8" fill="white" rx="5"/>
+      </mask>
+      
+          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="152.39" height="8" fill="#e34c26"/>
+        
+          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="152.39" y="0" width="147.61" height="8" fill="#563d7c"/>
+        
+      
+    <g transform="translate(0, 25)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        HTML 50.80%
+      </text>
+    </g>
+  
+    <g transform="translate(150, 25)">
+      <circle cx="5" cy="6" r="5" fill="#563d7c"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        CSS 49.20%
+      </text>
+    </g>
+  
+    
+    </svg>
+  
+        </g>
+      </svg>
 ---
 <p align="center">
  <img width="600" src="github-user-contribution.svg" alt="snake"/>

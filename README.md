@@ -9,7 +9,7 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Компьютерной академии ШАГ. После был промежуток в пару лет, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science. С мая 2023 года по август 2023 я изучал веб разработку. В настоящий момент я начинаю изучение JS,Java и языков Си, параллельно с этим я стал студентом ГГТУ имени П.О. Сухого.
-
+---
 https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prostasev&layout=compact&theme=vision-friendly-dark
 ---
 <p align="center">

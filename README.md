@@ -1,4 +1,4 @@
-```markdown
+
 # Профиль разработчика
 
 ## О себе
@@ -38,4 +38,4 @@
 ## Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stasevboris)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stasevboris0@gmail.com)
-```
+

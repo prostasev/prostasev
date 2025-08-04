@@ -1,55 +1,134 @@
----
----
+Профиль разработчика
 
-### :man_technologist: Обо мне:
-
-Я начинающий программист. Мой путь в It начался с Компьютерной академии ШАГ. После был промежуток в пару лет, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science. С мая 2023 года по август 2023 я изучал веб разработку. В настоящий момент я изучил на базовом уровне JS,Java,С,С#,Puthon.Также изучал ассемблер.
----
-
-- :seedling: Прохожу курс Java в scillbox.
-
-- :zap: Являюсь  студентом по специальности : Информационные системы и технологии в проектировании и разработке програмнного обеспечения информационных систем.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-stasevboris-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stasevboris) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](stasevboris0@gmail.com)
+  Русский
+  Беларуская
+  English
 
 
-### 💻 Технологии:
 
-<div>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
- <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-### 💻 Codewars:
+## О себе
+Я — начинающий разработчик программного обеспечения. Мой путь в IT начался в Компьютерной академии ШАГ. После перерыва в несколько лет, во время которого я экспериментировал с различными направлениями, включая изучение языков C и Python, а также основ data science, с мая по август 2023 года я сосредоточился на веб-разработке. В настоящее время владею базовыми знаниями в JavaScript, Java, C, C#, Python и ассемблере.
 
 
-![codewars](https://www.codewars.com/users/prostasev/badges/large)
----
+Прохожу курс по Java на платформе Skillbox.
+Являюсь студентом по специальности «Информационные системы и технологии в проектировании и разработке программного обеспечения информационных систем».
+
+Навыки и технологии
+
+   
+   
+   
 
 
+Инструменты
+
+   
+   
+   
+   
+   
+   
+
+
+Проекты
+На основе анализа репозиториев, вот ключевые проекты (фокус на веб-разработке с использованием HTML и CSS):
+
+site1: Простой веб-сайт (HTML).
+burger-intensive: Проект по созданию лендинга (CSS).
+burgers: Веб-страница с элементами интерфейса (HTML).
+buysite: Сайт для покупок или демонстрации (HTML).
+-223-2-1-: Экспериментальный проект (без указанного языка).
+
+Достижения
+
+Контакты
+
+
+
+
+## Аб мне
+Я — пачатковец у распрацоўцы праграмнага забеспячэння. Мой шлях у IT пачаўся ў Камп'ютэрнай акадэміі ШАГ. Пасля перапынак у некалькі гадоў, падчас якога я эксперыментаваў з рознымі напрамкамі, уключаючы вывучэнне моў C і Python, а таксама асновы data science, з мая па жнівень 2023 года я сканцэнтраваўся на вэб-разпрацоўцы. У цяперашні час валодаю базавымі ведамі ў JavaScript, Java, C, C#, Python і асэмблеры.
+
+
+Праходжу курс па Java на платформе Skillbox.
+З'яўляюся студэнтам па спецыяльнасці «Інфармацыйныя сістэмы і тэхналогіі ў праектаванні і распрацоўцы праграмнага забеспячэння інфармацыйных сістэм».
+
+Навыкі і тэхналогіі
+
+   
+   
+   
+
+
+Інструменты
+
+   
+   
+   
+   
+   
+   
+
+
+Праекты
+На аснове аналізу рэпазіторыяў, вось ключавыя праекты (фокус на вэб-разпрацоўцы з выкарыстаннем HTML і CSS):
+
+site1: Просты вэб-сайт (HTML).
+burger-intensive: Праект па стварэнні лендзінга (CSS).
+burgers: Вэб-старонка з элементамі інтэрфейсу (HTML).
+buysite: Сайт для пакупак або дэманстрацыі (HTML).
+-223-2-1-: Эксперыментальны праект (без указанага мовы).
+
+Дасягненні
+
+Кантакты
+
+
+
+
+## About Me
+I am a beginner software developer. My journey in IT began at the Computer Academy STEP. After a break of several years, during which I experimented with various directions, including learning C and Python languages, as well as basics of data science, from May to August 2023, I focused on web development. Currently, I possess basic knowledge in JavaScript, Java, C, C#, Python, and assembler.
+
+
+Taking a Java course on the Skillbox platform.
+I am a student in the specialty "Information systems and technologies in the design and development of software for information systems".
+
+Skills and Technologies
+
+   
+   
+   
+
+
+Tools
+
+   
+   
+   
+   
+   
+   
+
+
+Projects
+Based on repository analysis, here are key projects (focus on web development using HTML and CSS):
+
+site1: Simple website (HTML).
+burger-intensive: Landing page creation project (CSS).
+burgers: Web page with interface elements (HTML).
+buysite: Site for purchases or demonstration (HTML).
+-223-2-1-: Experimental project (no specified language).
+
+Achievements
+
+Contacts
+
+
+
+
+function showLanguage(lang) {
+  document.getElementById('ru-content').style.display = 'none';
+  document.getElementById('by-content').style.display = 'none';
+  document.getElementById('en-content').style.display = 'none';
+  document.getElementById(lang + '-content').style.display = 'block';
+}

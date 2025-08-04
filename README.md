@@ -1,14 +1,16 @@
-
 # Профиль разработчика
 
 ## О себе
-Я — начинающий разработчик программного обеспечения. Мой путь в IT начался в Компьютерной академии ШАГ. После перерыва в несколько лет, во время которого я экспериментировал с различными направлениями, включая изучение языков C и Python, а также основ data science, с мая по август 2023 года я сосредоточился на веб-разработке. В настоящее время владею базовыми знаниями в JavaScript, Java, C, C#, Python и ассемблере.
+Я — специалист по разработке программного обеспечения с фокусом на Python, Java и C#. Мой путь в IT начался в Компьютерной академии ШАГ, где я освоил основы программирования. После этого я углубился в backend-разработку и веб-технологии, экспериментируя с различными языками и фреймворками. С мая по август 2023 года я специализировался на веб-разработке, создавая полноценные приложения. В настоящее время разрабатываю проекты на Python (Django/Flask), Java (Spring) и C# (.NET), а также занимаюсь фронтендом с использованием JavaScript, HTML и CSS.
 
-- Прохожу курс по Java на платформе Skillbox.
+- Прохожу продвинутый курс по Java на платформе Skillbox.
 - Являюсь студентом по специальности «Информационные системы и технологии в проектировании и разработке программного обеспечения информационных систем».
 
 ## Навыки и технологии
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -25,12 +27,12 @@
 </div>
 
 ## Проекты
-На основе анализа репозиториев, вот ключевые проекты (фокус на веб-разработке с использованием HTML и CSS):
-- **[site1](https://github.com/prostasev/site1)**: Простой веб-сайт (HTML).
-- **[burger-intensive](https://github.com/prostasev/burger-intensive)**: Проект по созданию лендинга (CSS).
-- **[burgers](https://github.com/prostasev/burgers)**: Веб-страница с элементами интерфейса (HTML).
-- **[buysite](https://github.com/prostasev/buysite)**: Сайт для покупок или демонстрации (HTML).
-- **[-223-2-1-](https://github.com/prostasev/-223-2-1-)**: Экспериментальный проект (без указанного языка).
+На основе анализа репозиториев, вот ключевые проекты (фокус на веб-разработке с использованием HTML, CSS и интеграцией backend на Python/Java/C#):
+- **[site1](https://github.com/prostasev/site1)**: Простой веб-сайт на HTML с потенциалом интеграции Python-скриптов.
+- **[burger-intensive](https://github.com/prostasev/burger-intensive)**: Лендинг на CSS с элементами JavaScript для динамики.
+- **[burgers](https://github.com/prostasev/burgers)**: Веб-страница с интерфейсом на HTML/CSS, подходящая для C#-backend.
+- **[buysite](https://github.com/prostasev/buysite)**: Сайт для демонстрации покупок на HTML с возможностью Java-интеграции.
+- **[-223-2-1-](https://github.com/prostasev/-223-2-1-)**: Экспериментальный проект для тестирования веб-технологий.
 
 ## Достижения
 ![Codewars Badge](https://www.codewars.com/users/prostasev/badges/large)
@@ -38,4 +40,3 @@
 ## Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stasevboris)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stasevboris0@gmail.com)
-

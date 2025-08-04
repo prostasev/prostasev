@@ -26,27 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
-## Проекты
-- **[site1](https://github.com/prostasev/site1)**: Простой веб-сайт на HTML, демонстрирующий навыки верстки. Подходит для интеграции Python (Flask) или Java (Spring) для создания динамических приложений.
-- **[burger-intensive](https://github.com/prostasev/burger-intensive)**: Лендинг на CSS с элементами JavaScript для интерактивного интерфейса. Разработан как прототип для коммерческих промо-страниц.
-- **[burgers](https://github.com/prostasev/burgers)**: Веб-страница с интерфейсом на HTML/CSS, готовая для подключения C# (.NET) backend для обработки пользовательских данных.
-- **[buysite](https://github.com/prostasev/buysite)**: Прототип e-commerce сайта на HTML с потенциалом интеграции Java-based API для управления транзакциями.
-- **[-223-2-1-](https://github.com/prostasev/-223-2-1-)**: Экспериментальный проект для тестирования веб-технологий, включая HTML/CSS, с возможностью добавления Python-скриптов для автоматизации.
-- **[project-6](https://github.com/prostasev/project-6)**: Учебный проект на Python, демонстрирующий базовые алгоритмы и структуры данных для backend-разработки.
-- **[project-7](https://github.com/prostasev/project-7)**: Приложение на Java (Spring) для изучения REST API и работы с базами данных.
-- **[project-8](https://github.com/prostasev/project-8)**: Прототип на C# (.NET) для создания десктопного приложения с пользовательским интерфейсом.
-- **[project-9](https://github.com/prostasev/project-9)**: Веб-приложение на HTML/CSS/JavaScript с потенциалом интеграции Flask для серверной логики.
-- **[project-10](https://github.com/prostasev/project-10)**: Экспериментальный проект на Python для анализа данных с использованием библиотек Pandas и NumPy.
-- **[project-11](https://github.com/prostasev/project-11)**: Учебный проект на Java для реализации объектно-ориентированного программирования.
-- **[project-12](https://github.com/prostasev/project-12)**: Приложение на C# для автоматизации задач с использованием .NET Core.
-- **[project-13](https://github.com/prostasev/project-13)**: Веб-страница на HTML/CSS с динамическими элементами на JavaScript.
-- **[project-14](https://github.com/prostasev/project-14)**: Прототип backend-приложения на Python (Django) для управления пользователями.
-- **[project-15](https://github.com/prostasev/project-15)**: Учебный проект на Java для работы с многопоточностью и синхронизацией.
-- **[project-16](https://github.com/prostasev/project-16)**: Приложение на C# для интеграции с внешними API.
-- **[project-17](https://github.com/prostasev/project-17)**: Веб-сайт на HTML/CSS с потенциалом добавления Python-скриптов для серверной обработки.
-- **[project-18](https://github.com/prostasev/project-18)**: Экспериментальный проект на Java (Spring Boot) для создания микросервисов.
-- **[project-19](https://github.com/prostasev/project-19)**: Учебное приложение на C# для изучения паттернов проектирования.
-- **[project-20](https://github.com/prostasev/project-20)**: Прототип веб-приложения на HTML/CSS/JavaScript с возможностью интеграции Flask или .NET backend.
+
 
 ## Достижения
 ![Codewars Badge](https://www.codewars.com/users/prostasev/badges/large)
